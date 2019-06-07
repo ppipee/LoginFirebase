@@ -1,0 +1,12 @@
+.form-login{
+    width:40%;
+    margin-left:30%;
+    margin-right: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+.body{
+    height: 100%;
+    background-color: rgb(192, 192, 192);
+}
